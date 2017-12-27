@@ -24,9 +24,6 @@ ul {
 #logo {
     background-color: rgb(179, 179, 204);
     height: 200px;
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
 }
 
 nav {
@@ -42,4 +39,11 @@ nav {
 footer {
     height: 45px;
     background-color: #b79b5c;
+}
+
+.img-set {
+    overflow: hidden;
+    width: 1000px;
+    height: 200px;
+    object-fit: cover;
 }
