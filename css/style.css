@@ -17,14 +17,15 @@ body{
 }
 .main{
     width: 800px;
-    height: 300px;
+    height: 400px;
     /* text-align: center; */
     background-color: #a3c2c2;
 }
 .footer{
     width: 800px;
-    height: 50px;
-    background-color: red;
+    height: 20px;
+    text-align: center;
+    background-color: #5c8a8a;
 }
 .img{
     width: 800px;
@@ -34,6 +35,7 @@ body{
     float: left;
     padding-right: 40px;
     margin-top: 16px;
+    text-decoration:none;
 }
 .text{
     width: 350px;
@@ -42,4 +44,9 @@ body{
 .content{
     width: 500px;
     margin: 0px auto;
+    text-align: center;
+}
+.title{
+    font-size: 26px;
+    font-weight: bold;
 }
