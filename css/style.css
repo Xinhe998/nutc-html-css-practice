@@ -1,5 +1,6 @@
 body{
     background-color: gray;
+    margin: 0%;
 }
 
 #all{
@@ -83,4 +84,5 @@ button{
     width: 100px;
     background-color: gray;
     color: white;
+    border: 0ch;
 }
