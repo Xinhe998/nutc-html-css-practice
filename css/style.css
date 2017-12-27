@@ -1,14 +1,20 @@
 #all{
     width: 500px;
-    height: 523px;
+    height: 440px;
     margin: 0 auto;
   }
 
   #pic{
     background-color: white; 
     width: 500px;
-    height: 133px;
-    margin: 0 auto;
+    height: 150px;
+    margin: 0px auto;
+  }
+  #pic1{
+    background-color: white; 
+    width: 500px;
+    height: 150px;
+    margin: 0px auto;
   }
 
   #in1{
@@ -38,7 +44,7 @@
   }
   #menu{
     padding: 0px;
-        
+    margin: 0px;
   }
 
   #menu li {
@@ -57,6 +63,7 @@
   }
 
   h2{
+      font-family:Microsoft JhengHei;
       line-height: 50px;
       margin: 0px;
   }
@@ -64,10 +71,12 @@
       display: block ;
       line-height: 20px;
       margin: 0px;
+      font-family: 'Times New Roman', Times, serif;
   }
   
   p{
-      line-height: 40px;
+      font-family:Microsoft JhengHei;
+      line-height: 35px;
       margin: 0px;
   }
 
