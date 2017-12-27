@@ -39,6 +39,7 @@ nav {
 #main_text {
     height: 400px;
     background-color: rgb(235, 235, 235);
+    text-align: center;
 }
 
 footer {
@@ -62,4 +63,24 @@ li a {
 
 li a:hover {
     color: #FFC90E;
+}
+
+span {
+    line-height: 30px;
+}
+
+.btn {
+    width: 200px;
+    height: 50px;
+    background-color: #d8cb86;
+    color: white;
+    border-color: white;
+    border-radius: 10px;
+}
+
+.btn:hover {
+    background-color: #b7ac71;
+    color: black;
+    border-color: black;
+    border-radius: 10px;
 }
