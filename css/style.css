@@ -45,6 +45,8 @@ nav {
 footer {
     height: 45px;
     background-color: #b79b5c;
+    text-align: center;
+    margin: auto;
 }
 
 .img-set {
@@ -83,4 +85,10 @@ span {
     color: black;
     border-color: black;
     border-radius: 10px;
+}
+
+footer p {
+    padding: 12px;
+    color: white;
+    font-size: 12px;
 }
