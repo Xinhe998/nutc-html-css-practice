@@ -13,14 +13,13 @@ body{
 .menu{
     width: 800px;
     height: 40px;
-    text-align: center;
     background-color:  #d1e0e0;
 }
 .main{
     width: 800px;
     height: 300px;
-    text-align: center;
-    background-color: blue;
+    /* text-align: center; */
+    background-color: #a3c2c2;
 }
 .footer{
     width: 800px;
@@ -37,6 +36,10 @@ body{
     margin-top: 16px;
 }
 .text{
-    
-    margin-left: 250px;
+    width: 350px;
+    margin: 0px auto;
+}
+.content{
+    width: 500px;
+    margin: 0px auto;
 }
