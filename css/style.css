@@ -1,0 +1,28 @@
+body{
+    
+    background-color:  #ebebe0;
+}
+.all{
+    width: 800px;
+    margin: auto;
+}
+.header{
+    width: 800px;
+    height: 180px;
+    background-color: black;
+}
+.menu{
+    width: 800px;
+    height: 40px;
+    background-color: red;
+}
+.main{
+    width: 800px;
+    height: 300px;
+    background-color: blue;
+}
+.footer{
+    width: 800px;
+    height: 50px;
+    background-color: red;
+}
