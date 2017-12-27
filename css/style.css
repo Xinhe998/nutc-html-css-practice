@@ -1,5 +1,5 @@
 body{
-    
+    margin: 0px;
     background-color:  #ebebe0;
 }
 .all{
@@ -17,7 +17,7 @@ body{
 }
 .main{
     width: 800px;
-    height: 400px;
+    height: 450px;
     /* text-align: center; */
     background-color: #a3c2c2;
 }
@@ -49,4 +49,16 @@ body{
 .title{
     font-size: 26px;
     font-weight: bold;
+}
+.btn{
+    margin-top: 20px;
+    width: 150px;
+    margin: 0px auto;
+    font-size: 25px;
+    text-align: center;
+    background-color: #884dff;
+    border: 0px;
+}
+.btn:hover{
+    background-color: #80ff00;
 }
