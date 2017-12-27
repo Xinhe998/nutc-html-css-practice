@@ -16,7 +16,7 @@
     width: 500px;
     height: 60px;
     text-align: center;
-    line-height:100px;
+    line-height:80px;
     margin: 0px  auto;
   }
   #in2{
@@ -35,6 +35,7 @@
   }
   #menu{
     padding: 0px;
+    border:10px solid white;
   }
 
   #menu li {
