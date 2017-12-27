@@ -76,14 +76,14 @@ span {
     height: 50px;
     background-color: #d8cb86;
     color: white;
-    border-color: white;
+    border: 0px;
     border-radius: 10px;
 }
 
 .btn:hover {
     background-color: #b7ac71;
     color: black;
-    border-color: black;
+    border: 0px;
     border-radius: 10px;
 }
 
