@@ -13,11 +13,13 @@ body{
 .menu{
     width: 800px;
     height: 40px;
-    background-color: red;
+    text-align: center;
+    background-color:  #d1e0e0;
 }
 .main{
     width: 800px;
     height: 300px;
+    text-align: center;
     background-color: blue;
 }
 .footer{
@@ -31,5 +33,10 @@ body{
 }
 .t1{
     float: left;
-    margin-right: 40px;
+    padding-right: 40px;
+    margin-top: 16px;
+}
+.text{
+    
+    margin-left: 250px;
 }
