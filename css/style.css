@@ -56,7 +56,7 @@
   }
   body {
       background-color: gray;
-      
+      margin: 0px;
   }
   a{
     text-decoration:none;
