@@ -1,5 +1,6 @@
 * {
     margin: 0px auto;
+    font-family: Microsoft JhengHei
 }
 
 body {
@@ -14,6 +15,9 @@ body {
 
 ul li {
     list-style-type: none;
+    float: left;
+    text-align: center;
+    ;
 }
 
 ul {
@@ -29,6 +33,7 @@ ul {
 nav {
     background-color: #AFBBC6;
     height: 55px;
+    text-align: center;
 }
 
 #main_text {
@@ -46,4 +51,15 @@ footer {
     width: 1000px;
     height: 200px;
     object-fit: cover;
+}
+
+li a {
+    display: block;
+    padding: 15px 20px;
+    color: #FFFFFF;
+    text-decoration: none;
+}
+
+li a:hover {
+    color: #FFC90E;
 }
