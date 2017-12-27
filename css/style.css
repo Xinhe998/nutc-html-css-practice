@@ -1,0 +1,41 @@
+body{
+    background-color: gray;
+}
+
+#all{
+    width: 800px;
+    height: 540px;
+    margin: 0 auto;
+}
+
+#header{
+    width: 800px;
+    height: 175px;
+    margin: 0 auto;
+    background-color: white;
+}
+
+#menu{
+    width: 800px;
+    height: 75px;
+    margin: 0 auto;
+    background-color: darkgray;
+}
+
+#content{
+    width: 800px;
+    height: 265px;
+    margin: 0 auto;
+    background-color: white;
+}
+
+#footer{
+    width: 800px;
+    height: 25px;
+    margin: 0 auto;
+    background-color: rgb(75, 75, 75);
+}
+
+li {
+    list-style: none;
+}
