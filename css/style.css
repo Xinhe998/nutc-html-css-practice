@@ -1,0 +1,29 @@
+body{
+    background-color: gray;
+    margin: 0 auto;
+}
+.center{
+    margin: 0 auto;
+}
+#all{
+    height: 600px;
+    width: 800px;
+    background: white;
+}
+#head{
+    height: 200px;
+    background: red;
+}
+#menu{
+    height: 100px;
+    background: blue;
+}
+#Content{
+    height: 300px;
+    background: green;
+}
+footer{
+    height: 50px;
+    width: 800px;
+    background: yellow;
+}
