@@ -1,0 +1,45 @@
+* {
+    margin: 0px auto;
+}
+
+body {
+    background-color: gray;
+}
+
+#wrapper {
+    background-color: wheat;
+    width: 1000px;
+    height: 700px;
+}
+
+ul li {
+    list-style-type: none;
+}
+
+ul {
+    display: inline-block;
+    margin: 0px;
+}
+
+#logo {
+    background-color: rgb(179, 179, 204);
+    height: 200px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+nav {
+    background-color: #AFBBC6;
+    height: 55px;
+}
+
+#main_text {
+    height: 400px;
+    background-color: rgb(235, 235, 235);
+}
+
+footer {
+    height: 45px;
+    background-color: #b79b5c;
+}
