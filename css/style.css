@@ -23,11 +23,13 @@
     background-color: white; 
     width: 500px;
     height: 200px;
-    border: 100px;
+    
     margin: 0 auto;
+    
+    text-align: center;
   }
   #in3{
-    background-color: rgb(39, 39, 39); 
+    background-color: rgb(88, 88, 88); 
     width: 500px;
     height: 30px;
     border: 100px;
@@ -35,7 +37,7 @@
   }
   #menu{
     padding: 0px;
-    border:10px solid white;
+        
   }
 
   #menu li {
@@ -51,6 +53,24 @@
   }
   a{
     text-decoration:none;
+  }
+
+  h2{
+      line-height: 50px;
+      margin: 0px;
+  }
+  h5{
+      display: block ;
+      line-height: 20px;
+      margin: 0px;
+  }
+
+  #btn{
+    width:150px;
+    height:25px;
+    line-height: 10px;
+    background-color: rgb(138, 115, 115);
+    color: white;
   }
     
 
