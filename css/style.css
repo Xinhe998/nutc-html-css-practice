@@ -1,0 +1,96 @@
+#all{
+    width: 500px;
+    height: 440px;
+    margin: 0 auto;
+  }
+
+  #pic{
+    background-color: white; 
+    width: 500px;
+    height: 150px;
+    margin: 0px auto;
+  }
+  #pic1{
+    background-color: white; 
+    width: 500px;
+    height: 150px;
+    margin: 0px auto;
+  }
+
+  #in1{
+    background-color: rgb(228, 201, 170); 
+    width: 500px;
+    height: 60px;
+    text-align: center;
+    line-height:100px;
+    margin: 0px  auto;
+  }
+  #in2{
+    background-color: white; 
+    width: 500px;
+    height: 200px;
+    
+    margin: 0 auto;
+    
+    text-align: center;
+  }
+  #in3{
+    background-color: rgb(88, 88, 88); 
+    width: 500px;
+    height: 30px;
+    border: 100px;
+    text-align: center;
+    margin: 0 auto;
+  }
+  #menu{
+    padding: 0px;
+    margin: 0px;
+  }
+
+  #menu li {
+    font-family:Microsoft JhengHei;
+    font-weight: bolder;
+    font-size: 15px;
+    display:inline;
+    
+  }
+  body {
+      background-color: gray;
+      margin: 0px;
+  }
+  a{
+    text-decoration:none;
+  }
+
+  h2{
+      font-family:Microsoft JhengHei;
+      line-height: 50px;
+      margin: 0px;
+  }
+  h5{
+      display: block ;
+      line-height: 20px;
+      margin: 0px;
+      font-family: 'Times New Roman', Times, serif;
+  }
+  
+  p{
+      font-family:Microsoft JhengHei;
+      line-height: 35px;
+      margin: 0px;
+  }
+
+  #btn{
+    width:150px;
+    height:25px;
+    line-height: 10px;
+    background-color: rgb(138, 115, 115);
+    color: white;
+    border: 0px;
+  }
+    
+
+  a:link {color:  black}        
+  a:visited {color: black}    
+  a:hover {color: white}    
+  a:active {color: black}  
