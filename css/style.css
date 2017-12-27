@@ -27,6 +27,7 @@ body{
     height: 290px;
     margin: 0 auto;
     background-color: white;
+    text-align: center;
 }
 
 #footer{
@@ -53,11 +54,32 @@ ul{
 }
 
 a:link {color: black}   
-a:visited {color: purple}    
+a:visited {color: black}    
 a:hover {color: blue}    
 a:active {color: green} 
 
 a{
     font-size: 12pt;
     text-decoration:none;
+}
+
+h1{
+    margin: 0%;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+p{
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 0%;
+    margin-bottom: 0%;
+}
+
+button{
+    margin-top: 20px;
+    height: 40px;
+    width: 100px;
+    background-color: gray;
+    color: white;
 }
