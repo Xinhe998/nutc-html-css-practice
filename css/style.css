@@ -17,14 +17,14 @@ body{
 
 #menu{
     width: 800px;
-    height: 75px;
+    height: 50px;
     margin: 0 auto;
     background-color: darkgray;
 }
 
 #content{
     width: 800px;
-    height: 265px;
+    height: 290px;
     margin: 0 auto;
     background-color: white;
 }
@@ -36,6 +36,28 @@ body{
     background-color: rgb(75, 75, 75);
 }
 
-li {
+li{
+    display: inline-block;
     list-style: none;
+    padding-top: 25px;
+    padding-left: 50px;
+}
+
+#home{
+    padding-left: 210px;
+}
+
+ul{
+    margin: 0%;
+    padding: 0%;
+}
+
+a:link {color: black}   
+a:visited {color: purple}    
+a:hover {color: blue}    
+a:active {color: green} 
+
+a{
+    font-size: 12pt;
+    text-decoration:none;
 }
