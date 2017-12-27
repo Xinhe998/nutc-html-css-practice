@@ -16,7 +16,7 @@
     width: 500px;
     height: 60px;
     text-align: center;
-    line-height:80px;
+    line-height:100px;
     margin: 0px  auto;
   }
   #in2{
@@ -33,6 +33,7 @@
     width: 500px;
     height: 30px;
     border: 100px;
+    text-align: center;
     margin: 0 auto;
   }
   #menu{
@@ -62,6 +63,11 @@
   h5{
       display: block ;
       line-height: 20px;
+      margin: 0px;
+  }
+  
+  p{
+      line-height: 40px;
       margin: 0px;
   }
 
