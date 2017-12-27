@@ -35,6 +35,7 @@ body{
     height: 25px;
     margin: 0 auto;
     background-color: rgb(75, 75, 75);
+    text-align: center;
 }
 
 li{
