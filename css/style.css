@@ -9,7 +9,6 @@ body{
 .header{
     width: 800px;
     height: 180px;
-    background-color: black;
 }
 .menu{
     width: 800px;
@@ -25,4 +24,12 @@ body{
     width: 800px;
     height: 50px;
     background-color: red;
+}
+.img{
+    width: 800px;
+    height: 180px;
+}
+.t1{
+    float: left;
+    margin-right: 40px;
 }
