@@ -17,7 +17,8 @@ body {
 }
 
 ul {
-    margin: 0 auto;
+    margin: 0 auto;   
+    padding: 0;
 }
 
 li {
@@ -31,8 +32,7 @@ a {
     color: #DC143C;
 }
 
-h1,
-p {
+h1,p {
     margin-top: 0;
 }
 
