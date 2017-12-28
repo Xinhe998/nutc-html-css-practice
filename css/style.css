@@ -11,6 +11,22 @@ body{
 .menu{
     height: 50px;
     background: #DDCCFF;
+    color: #2233FF;
+    font-weight: bolder;
+    font-size: 24px;
+    line-height: 50px;
+}
+
+ul{
+    margin: auto;
+    padding: 0;
+}
+
+.menuli{
+    width: 120px;
+    display: inline-block;
+    list-style-image: none;
+    padding-right: 5px;
 }
 
 .content{
