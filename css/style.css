@@ -10,4 +10,19 @@
     margin:0px 400px 0px 400px;
   }
 
+  #tag{
+    margin:-20px 400px 0px 400px; 
+    text-align:center;
+    width:600px; 
+    height:40px;
+    background: #dddddd;;
+   }
+  
+   ul li
+   { 
+     font-size:20px;
+     padding:15px 10px;
+    display: inline-block;
+   }
+
   
