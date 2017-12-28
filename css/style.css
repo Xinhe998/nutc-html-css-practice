@@ -55,4 +55,7 @@ input{
 .footer{
     height: 30px;
     background: #DDCCFF;
+    color: #2233FF;
+    line-height: 30px;
+    font-weight: bolder;
 }
