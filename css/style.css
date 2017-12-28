@@ -1,0 +1,24 @@
+body{
+    width: 800px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.header{
+    height: 350px;
+}
+
+.menu{
+    height: 50px;
+    background: #DDCCFF;
+}
+
+.content{
+    height: 320px;
+    background: #CCDDFF;
+}
+
+.footer{
+    height: 30px;
+    background: #DDCCFF;
+}
