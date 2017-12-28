@@ -15,3 +15,23 @@ body {
     margin: 0 auto;
     background: #66FFE6;
 }
+
+ul {
+    margin: 0 auto;
+}
+
+li {
+    width: 80px;
+    list-style: none;
+    display: inline-block;
+    margin: 25px 10px 5px;
+}
+
+a {
+    color: #DC143C;
+}
+
+h1,
+p {
+    margin-top: 0;
+}
