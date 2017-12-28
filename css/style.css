@@ -42,5 +42,13 @@
     width: 100px;
     
 }
+#footer{
+  text-align:center; 
+  background: #666666;
+  margin:-20px 400px 0px 400px;
+    width:600px; 
+    height:20px;
+}
+
 
   
