@@ -25,4 +25,22 @@
     display: inline-block;
    }
 
+   
+   #content
+   {
+      background: white;
+      margin:-20px 400px 0px 400px;
+      text-align:center; 
+      width:600px;
+      height:200px;
+   }
+
+   button { 
+    border: none;
+    background-color: 	#0000FF;
+    color: white;
+    width: 100px;
+    
+}
+
   
