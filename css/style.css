@@ -35,3 +35,23 @@ h1,
 p {
     margin-top: 0;
 }
+
+#content {
+    background: #73E68C;
+    width: 100%;
+    margin: 0 auto;
+    color: #483D8B;
+    padding: 30px;
+    box-sizing: border-box;
+}
+
+.btn {
+    margin: 20px auto 0;
+    width: 150px;
+    font-size: 30px;
+    background: #46A3FF;
+    color: #FFFFCE;
+    padding: 15px;
+    box-sizing: border-box;
+    border: 3px #000079 solid;
+}
