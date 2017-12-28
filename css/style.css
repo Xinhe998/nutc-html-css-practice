@@ -50,6 +50,11 @@ input{
     background: #22CCFF;
     font-size: 18px;
     margin-top: 15px;
+    border-style: none;
+}
+
+input:hover{
+    background: #FFCC22;
 }
 
 .footer{
