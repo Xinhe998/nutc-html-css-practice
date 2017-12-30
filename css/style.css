@@ -26,9 +26,9 @@ body{
     position: relative;
 }
 footer{
-    height: 50px;
+    height: 20pt;
     width: 800px;
-    background: yellow;
+    background:rgb(70, 69, 69);
 }
 img{
     width: 800px;
@@ -75,4 +75,13 @@ button{
     position: absolute;
     left: 50%;
     transform: translateX(-50%);
+}
+footer{
+    text-align: center;
+    position: relative;
+}
+footer span{
+    position: absolute;
+    top: 20%;
+    transform: translate(-50%);
 }
