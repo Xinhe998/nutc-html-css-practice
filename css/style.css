@@ -39,3 +39,28 @@ html {
 #myhtml .menu ul li a:hover{
     color: black;
 }
+
+#myhtml .content {
+    float: none;
+    height: 650px;
+    background-color: white;
+    text-align: center;
+}
+
+#myhtml .content h1{
+    margin: 0;
+    padding: 20px 0;
+}
+
+#myhtml .content p{
+    font-size: 16pt;
+    padding: 0 50px;
+    text-align: left;
+    line-height: 40px;
+}
+
+#myhtml .content .picture{
+    width: 500px;
+    margin:0 auto;
+}
+
