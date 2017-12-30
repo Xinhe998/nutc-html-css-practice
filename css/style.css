@@ -1,0 +1,70 @@
+body{
+    margin: 0;
+}
+
+#container{
+    width: 800px;
+    margin: auto;
+    text-align: center;
+}
+
+.header{
+    height: 350px;
+}
+
+.menu{
+    height: 50px;
+    background: #DDCCFF;
+    color: #2233FF;
+    font-weight: bolder;
+    font-size: 24px;
+    line-height: 50px;
+}
+
+ul{
+    margin: auto;
+    padding: 0;
+}
+
+.menuli{
+    width: 120px;
+    display: inline-block;
+    list-style-image: none;
+    padding-right: 5px;
+}
+
+.content{
+    height: 320px;
+    background: #CCDDFF;
+    font-family: "標楷體";
+    padding-top: 10px;
+}
+
+.poem,.word{
+    font-size: 18px;
+}
+
+.word{
+    padding-top: 40px;
+}
+
+input{
+    height: 30px;
+    width: 100px;
+    background: #22CCFF;
+    font-size: 18px;
+    margin-top: 15px;
+    border-style: none;
+}
+
+input:hover{
+    background: #FFCC22;
+}
+
+.footer{
+    height: 30px;
+    background: #DDCCFF;
+    color: #2233FF;
+    line-height: 30px;
+    font-weight: bolder;
+}
