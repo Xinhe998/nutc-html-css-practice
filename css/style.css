@@ -64,3 +64,9 @@ html {
     margin:0 auto;
 }
 
+#myhtml .footer{
+    background-color: brown;
+    color: white;
+    text-align: center;
+    vertical-align: middle;
+}
