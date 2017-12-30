@@ -1,0 +1,72 @@
+html {
+    background-color: gray;
+    font-family: Microsoft JhengHei;
+}
+
+#myhtml {
+    margin:0 auto;
+    width: 1080px;
+}
+
+#myhtml .header {
+    height: 300px;
+}
+
+#myhtml .menu {
+    height: 70px;
+    background-color: brown;
+}
+
+#myhtml .menu ul{
+    list-style: none;
+    margin:0 auto;
+    padding: 0;
+    width: 400px;
+}
+
+#myhtml .menu ul li{
+    float: left;    
+    text-align: center;
+    width: 100px;
+    line-height: 70px;
+}
+
+#myhtml .menu ul li a{
+    color: white;
+    text-decoration: none;
+}
+
+#myhtml .menu ul li a:hover{
+    color: black;
+}
+
+#myhtml .content {
+    float: none;
+    height: 650px;
+    background-color: white;
+    text-align: center;
+}
+
+#myhtml .content h1{
+    margin: 0;
+    padding: 20px 0;
+}
+
+#myhtml .content p{
+    font-size: 16pt;
+    padding: 0 50px;
+    text-align: left;
+    line-height: 40px;
+}
+
+#myhtml .content .picture{
+    width: 500px;
+    margin:0 auto;
+}
+
+#myhtml .footer{
+    background-color: brown;
+    color: white;
+    text-align: center;
+    vertical-align: middle;
+}
