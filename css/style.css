@@ -1,0 +1,41 @@
+html {
+    background-color: gray;
+    font-family: Microsoft JhengHei;
+}
+
+#myhtml {
+    margin:0 auto;
+    width: 1080px;
+}
+
+#myhtml .header {
+    height: 300px;
+}
+
+#myhtml .menu {
+    height: 70px;
+    background-color: brown;
+}
+
+#myhtml .menu ul{
+    list-style: none;
+    margin:0 auto;
+    padding: 0;
+    width: 400px;
+}
+
+#myhtml .menu ul li{
+    float: left;    
+    text-align: center;
+    width: 100px;
+    line-height: 70px;
+}
+
+#myhtml .menu ul li a{
+    color: white;
+    text-decoration: none;
+}
+
+#myhtml .menu ul li a:hover{
+    color: black;
+}
