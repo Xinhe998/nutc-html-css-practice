@@ -22,7 +22,8 @@ body{
 }
 #Content{
     height: 330px;
-    background: green;
+    background: white;
+    position: relative;
 }
 footer{
     height: 50px;
@@ -50,4 +51,28 @@ ul{
 a:link{
     color: black;
     text-decoration-line: none;
+}
+.title{
+    line-height: 50pt;
+    display: block;
+    font-size: 20pt;
+    font-weight: bolder;
+    text-align: center;
+}
+table{
+    height: 40%;
+    width: 85%;
+    margin-left: auto;
+    margin-right: auto;
+}
+button{
+    padding: 0;
+    background-color: gray;
+    color: white;
+    line-height: 30pt;
+    border: none;
+    width: 80pt;
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
 }
