@@ -1,0 +1,69 @@
+body
+{
+    background-color: rgb(184, 184, 184);
+}
+p, ul 
+{
+    margin: 0;
+}
+.wp
+{
+    position: relative;
+    max-width: 480px;
+    margin: 0 auto;    
+}
+.wp .bannerBox .pic
+{
+    position: relative;
+    width: 100%;
+}
+.wp .bannerBox .pic img
+{
+    max-width: 100%;
+    display: block;
+}
+li {
+    list-style: none;
+}
+.navContainer .navBox
+{
+    padding: 0 0;
+    list-style: none;
+    background-color:rgba(180, 95, 45, 0.233);
+    text-align: center;
+}
+.navContainer .navBtn
+{
+    margin: 0 10px;
+    height: 30px;
+    line-height: 30px;
+    display: inline-block;
+    text-align: center;
+}
+.mainContainer
+{
+    padding: 30px 15px;
+    text-align: center;
+    background-color: white;
+}
+.mainContainer h1
+{
+    text-align: center;;
+}
+.mainContainer .linkBox
+{
+    margin:15px;
+    text-align: center;
+}
+.mainContainer .linkBox .linkBtn
+{
+    padding: 5px 5px;
+    display: inline-block;
+    text-align: center;
+    background-color: rgb(146, 146, 146);
+}
+.footer
+{
+    text-align: center;
+    background-color: rgb(126, 125, 125);
+}
