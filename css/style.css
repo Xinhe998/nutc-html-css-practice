@@ -1,5 +1,5 @@
 body{
-    background: #777;
+    background: rgb(0, 0, 0);
     margin: 0;
 }
 
@@ -11,14 +11,26 @@ body{
 .header{
     width: inherit;
     height: 200px;
+    color: #FFF;
     background-image: url(../images/header.jpg);
+}
+
+.header p{
+    margin: 0;
+    line-height: 200px;
+    font-size: 60px;
+    text-align: center;
+    display: block;
 }
 
 .menu{
     width: inherit;
+    color: #FFF;
     font-size: 20px;
-    background: #999;
+    background: #000;
     height: 50px;
+    border-top: solid 3px #FFF;
+    border-bottom: solid 3px #FFF;
 }
 
 ul{
@@ -30,18 +42,34 @@ ul{
 ul li{
     width: 75px;
     text-align: center;
-    /* line-height: bottom; */
     display: inline-block;
     list-style: none;
 }
 
 .content{
-    width: inherit;
-    height: 300px;
-    background: #FFF;
+    width: 780;
+    padding: 10px 10px;
+    color: #FFF;
+    background: #000;
+}
+
+.content .hos{
+    width: 370px;
+    text-align: center;
+    padding: 10px;
+    float: left;
+}
+
+.content img{
+    margin: 0 auto;
+    display: block;
 }
 
 .footer{
-    height: 16px;
-    background: #555;
+    height: 20px;
+    font-size: 16px;
+    line-height: 20px;
+    background: #FFF;
+    text-align: center;
+    font-weight: bolder;
 }
