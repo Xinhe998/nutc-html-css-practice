@@ -8,10 +8,7 @@ img{
     height: 200px;
 }
 #header{
-    background-color: yellow;
-    margin: 0 auto;
-    width: 800px;
-    height: 200px;
+    display: block;
 }
 #menu{
     margin: 0 auto;
