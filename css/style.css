@@ -1,0 +1,36 @@
+body{
+    background-color: gray;
+}
+img{
+    display: block;
+    margin: 0 auto;
+    width: 800px;
+    height: 200px;
+}
+#header{
+    background-color: yellow;
+    margin: 0 auto;
+    width: 800px;
+    height: 200px;
+}
+#menu{
+    margin: 0 auto;
+    text-align: center;
+    background-color: rgb(223, 188, 145);
+    width: 800px;
+    height: 50px;
+}
+#body{
+    margin: 0 auto;
+    text-align: center;
+    background-color: white;
+    width: 800px;
+    height: 250px;
+}
+#footer{
+    margin: 0 auto;
+    text-align: center;
+    background-color: rgb(80, 80, 80);
+    width: 800px;
+    height: 25px;
+}
