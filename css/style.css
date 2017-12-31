@@ -16,9 +16,23 @@ body{
 
 .menu{
     width: inherit;
-    /* font-size: xx-large; */
+    font-size: 20px;
     background: #999;
     height: 50px;
+}
+
+ul{
+    width: 315px;
+    margin: 0 auto;
+    padding: 25px 0 0 0;
+}
+
+ul li{
+    width: 75px;
+    text-align: center;
+    /* line-height: bottom; */
+    display: inline-block;
+    list-style: none;
 }
 
 .content{
