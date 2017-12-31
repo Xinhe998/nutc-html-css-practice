@@ -1,0 +1,33 @@
+body{
+    background: #777;
+    margin: 0;
+}
+
+.wrap{
+    width: 800px;
+    margin: 0 auto;
+}
+
+.header{
+    width: inherit;
+    height: 200px;
+    background: blue;
+}
+
+.menu{
+    width: inherit;
+    /* font-size: xx-large; */
+    background: #999;
+    height: 50px;
+}
+
+.content{
+    width: inherit;
+    height: 300px;
+    background: #FFF;
+}
+
+.footer{
+    height: 16px;
+    background: #555;
+}
