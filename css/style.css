@@ -38,3 +38,18 @@ li{
     margin: 30px 20px 0 0;
     list-style: none;
 }
+center{
+    padding: 10px 0 0 0;
+    font-size: 40px;
+    font-weight: bold;
+}
+p{
+    font-size: 20px;
+    padding: 0 80px 0 80px;
+}
+button{
+    padding: 10px;
+    background-color: rgb(173, 173, 173);
+    color:white;
+    border: 0;
+}
