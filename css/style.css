@@ -28,6 +28,7 @@ img{
     height: 300px;
 }
 #footer{
+    padding: 5px 0 0 0;
     text-align: center;
     background-color: rgb(80, 80, 80);
     width: 800px;
