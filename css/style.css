@@ -1,0 +1,27 @@
+body{
+    background: #DDDDDD;
+    font-family: monospace;
+    
+}
+#all{
+    margin: 0 auto;
+    background: white;
+    width: 997px;
+    height: 1125px;
+}
+img{
+    border: 0;
+}
+li{
+    display: inline-block;
+    list-style: none;
+    padding:5px 60px;
+    font-size: 30px;
+    
+
+}
+#header{
+    margin: 0 auto;
+    width: 1000px;
+    height:545px;
+}
