@@ -7,7 +7,7 @@ body{
     margin: 0 auto;
     background: white;
     width: 997px;
-    height: 1125px;
+    height: 1070px;
 }
 #header{
     margin: 0 auto;
@@ -32,8 +32,15 @@ ul{
 #content{
     padding-top: 10px;
     width: 1000px;
-    height:500px;
+    height:520px;
     text-align: center;
     font-size: 16px;
     font-family: 微軟正黑體;
+}
+#footer{
+    margin-top: 0%;
+    width: 1000px;
+    height:20px;
+    text-align: center;
+    background: greenyellow;
 }
