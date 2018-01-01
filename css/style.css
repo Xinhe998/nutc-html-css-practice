@@ -3,31 +3,38 @@ body{
 }
 img{
     display: block;
-    margin: 0 auto;
     width: 800px;
     height: 200px;
 }
+#Content{
+    width: 800px;
+    height: 525px;
+    margin: 0 auto;
+}
 #header{
-    display: block;
+
 }
 #menu{
-    margin: 0 auto;
     text-align: center;
     background-color: rgb(223, 188, 145);
     width: 800px;
     height: 50px;
+    margin: -20px 0 0 0;
 }
 #body{
-    margin: 0 auto;
     text-align: center;
     background-color: white;
     width: 800px;
-    height: 250px;
+    height: 300px;
 }
 #footer{
-    margin: 0 auto;
     text-align: center;
     background-color: rgb(80, 80, 80);
     width: 800px;
     height: 25px;
+}
+li{
+    display: inline-block;
+    margin: 30px 20px 0 0;
+    list-style: none;
 }
