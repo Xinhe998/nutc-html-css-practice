@@ -1,0 +1,46 @@
+body{
+    background: #DDDDDD;
+    font-family: monospace;
+    
+}
+#all{
+    margin: 0 auto;
+    background: white;
+    width: 997px;
+    height: 1070px;
+}
+#header{
+    margin: 0 auto;
+    width: 997px;
+    height:472px;
+}
+#list{
+    height:50px;
+    width: 997px;
+    background: #FFDDAA;
+    margin: auto;
+}
+li{
+    display: inline-block;
+    list-style: none;
+    padding:5px 60px;
+    font-size: 30px;
+}
+ul{
+    margin: 0 auto;
+}
+#content{
+    padding-top: 10px;
+    width: 1000px;
+    height:520px;
+    text-align: center;
+    font-size: 16px;
+    font-family: 微軟正黑體;
+}
+#footer{
+    margin-top: 0%;
+    width: 1000px;
+    height:20px;
+    text-align: center;
+    background: greenyellow;
+}
