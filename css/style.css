@@ -1,0 +1,48 @@
+#wrap{
+    background-color: #8d8585;
+}
+.pic1{
+    width: 800px;
+    height: 300px;
+    margin:0px auto;
+}
+ul{
+    width: 510px;
+    padding: 0px 50px 0px 240px;
+    margin: 0px auto;
+    background: rgb(210, 209, 214);
+}
+ul li{
+    font-size:20px;
+    margin: 0px auto;
+    padding:15px 10px 0px;
+    display: inline-block;
+}
+.content{
+    width: 800px;
+    height: 350px;
+    margin: 0px auto;
+    text-align: center;
+    background: #ffffff;
+}
+p{
+    margin: 0px auto 0px auto;
+    padding: 6px 0px 6px 0px;
+}
+#t1{
+    font-size: 24pt;
+}
+.btn{  
+    margin: 10px;
+    padding: 5px 5px 5px 5px;
+    border: none;
+    color: rgb(80, 79, 79);
+    width: 100px;
+}
+#footer{
+    text-align:center; 
+    background: #666666;
+    margin:0px auto;
+    width:800px; 
+    height:25px;
+}
