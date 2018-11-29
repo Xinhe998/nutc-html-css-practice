@@ -32,3 +32,13 @@ div.main {
     height:100%;
     text-align: center
 }
+h1 {
+    margin: -5px 0px;
+    padding: 15px 0px 10px 0px;
+}
+input[type="button"] {
+    background-color: grey;
+    color:white;
+    padding: 12px 20px;
+    margin: 0px 0px 10px 0px;
+}
