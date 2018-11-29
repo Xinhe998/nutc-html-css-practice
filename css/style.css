@@ -4,19 +4,26 @@
     background-color: black; 
     margin: 0 auto;
 }
+.head{
+    width: 550px;
+    height: 200px;
+}
 img{
     width: 550px;
     height: 200px;
 }
 .menu{
     width: 550px;
-    height: 50px;
-    background-color: red;
+    height: 35px;
+    background-color: rgb(161, 161, 161);
     display: inline-block;
     text-align:center;
 }
 ul li{
     display: inline-block;
-    margin: 0 15px;
+    margin-right: 20px;
+}
+a{
     text-decoration: none;
+    color: black;
 }
