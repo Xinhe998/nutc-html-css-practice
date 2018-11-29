@@ -42,3 +42,8 @@ input[type="button"] {
     padding: 12px 20px;
     margin: 0px 0px 10px 0px;
 }
+footer {
+    background-color: #666666;
+    text-align: center;
+    font-size: 10px
+}
