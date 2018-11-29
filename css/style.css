@@ -1,0 +1,22 @@
+.box{
+    width: 550px;
+    height: 500px;
+    background-color: black; 
+    margin: 0 auto;
+}
+img{
+    width: 550px;
+    height: 200px;
+}
+.menu{
+    width: 550px;
+    height: 50px;
+    background-color: red;
+    display: inline-block;
+    text-align:center;
+}
+ul li{
+    display: inline-block;
+    margin: 0 15px;
+    text-decoration: none;
+}
