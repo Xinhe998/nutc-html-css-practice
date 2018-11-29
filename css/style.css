@@ -1,0 +1,19 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    background-color: #777;
+}
+.container{
+    width: 80vw;
+    margin: 0 auto;
+}
+.header{
+    width: 100%;
+    height: 300px;
+    background-image: url(../assets/BTOB.jpg);
+    background-repeat: no-repeat;
+    background-position-x: center;
+    background-size: 100%;
+}
