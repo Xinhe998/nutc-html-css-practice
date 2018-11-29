@@ -18,3 +18,29 @@ div img{
     border:0;
     padding: 0;
 }
+nav ul{
+    margin:0 auto;
+}
+nav{
+    height: 40px;
+    background-color: rgb(170, 170, 170);
+}
+nav ul li{
+    height: 40px;
+    line-height: 40px;
+    margin-left: 10%;
+    margin-right: 10%;
+    list-style: none;
+    text-decoration: none;
+    display: inline-block;
+} 
+a{
+    color:rgb(0, 0, 0);
+    text-decoration: none;
+}
+nav ul li:hover{
+    background-color: rgb(189, 189, 189);
+} 
+nav ul li:active{
+    background-color: rgb(131, 130, 130);
+} 
