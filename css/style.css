@@ -1,0 +1,45 @@
+ul>li{
+    display: inline-block;
+}
+#place{
+    height: 210px;;
+}
+#menu{
+    background-color: gray;
+}
+#head-menu{
+    margin: 0 auto;
+    max-width: 250px;
+}
+#body-range{
+    margin: 0px auto;
+    width: 800px;
+    height: 500px;
+}
+.head-menu-item{
+    padding: 25px 5px 0px 5px;
+    list-style: none;
+}
+.head-menu-item>a{
+    color: black;
+    text-decoration: none;
+}
+.head-menu-item>a:hover{
+    color: black;
+}
+#cotent{
+    text-align: center;
+    margin: 3px 1px;
+}
+#readmore{
+    background-color: cornflowerblue;
+    color: white;
+    text-decoration: none;
+    margin: 3px 1px;
+    padding: 3px 1px;
+}
+#footer{
+    margin: auto;
+    background-color: gray;
+    text-align: center;
+}
