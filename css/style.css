@@ -1,3 +1,6 @@
+body{
+    background-color: rgb(133, 133, 133);
+}
 .box{
     width: 550px;
     height: 500px;
@@ -15,7 +18,7 @@ img{
 .menu{
     width: 550px;
     height: 35px;
-    background-color: rgb(161, 161, 161);
+    background-color: rgb(173, 152, 152);
     display: inline-block;
     text-align:center;
 }
@@ -26,4 +29,31 @@ ul li{
 a{
     text-decoration: none;
     color: black;
+}
+.content{
+    width: 550px;
+    height: 240px;
+    background-color: white;
+}
+.content-box{
+    width: 450px;
+    height: 230px;
+    text-align: center;
+    margin: 0 auto;
+    padding-top: 10px;
+}
+.title{
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 50px;
+}
+.button{
+    background-color: rgb(173, 152, 152);
+    color: white;
+    width: 80px;
+    height: 30px;
+    line-height: 30px;
+    margin: 30px auto;
+    border-radius: 3px;
+    cursor: pointer;
 }
