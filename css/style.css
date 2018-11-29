@@ -1,0 +1,16 @@
+*{
+    margin: 0px;
+    padding:0px;
+}
+body{
+    background-color:gray
+}
+#container{
+    margin: 0 auto;
+}
+#header{
+    margin: 0 auto;
+    background-image:url(../assets/ocean.png);
+    width:600px;
+    height:406px;
+}
