@@ -64,3 +64,7 @@ button:hover{
 button:active{
     background-color: rgb(107, 107, 107);
 }
+footer{
+    text-align: center;
+    background-color: rgb(56, 56, 56)
+}
