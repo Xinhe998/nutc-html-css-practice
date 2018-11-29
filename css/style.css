@@ -13,3 +13,8 @@ div.main{
     background-color: rgb(255,255, 255);
     width: 80%;
 }
+div img{
+    margin:0 25%;
+    border:0;
+    padding: 0;
+}
