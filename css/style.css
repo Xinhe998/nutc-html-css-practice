@@ -3,25 +3,34 @@ body{
 }
 div{
     margin: 0 auto;
-    width: 700px;
-    margin-bottom: -15px;
+    width: 750px;
+    text-align: center;
 }
 div#bg{
-    background-image: url(../assets/937752.png);
+    background-image: url(../assets/190.jpg);
     background-position:center;
     background-size:100% 100%;
-    height: 300px;
+    height: 250px;
+    margin-bottom: -15px;
 }
 div#second{
     background-color: #c2b4a7;
     height: 50px;
     vertical-align:bottom;
-    text-align: center;
+}
+div#third{
+    background-color: white;
 }
 li{
     display: inline-block;
     height:100%;
-    margin: 25px;
+    padding: 16px 24px;
+}
+div#footer{
+    background-color: #5D5D5D;
+}
+li:hover{
+    background-color: antiquewhite;
 }
 a{
     text-decoration: none;
@@ -36,5 +45,15 @@ a:hover {
     color:red;
 }
 a:active {
-   color:purple;
+    color:purple;
 }
+button{
+    background-color: #f4511e;
+    border: none;
+    color: white;
+    padding: 10px 24px;
+    font-size: 16px;
+    opacity: 1;
+    transition: 0.3s;
+}
+button:hover {opacity: 0.5}
