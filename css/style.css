@@ -1,0 +1,94 @@
+*{
+    margin: 0px;
+    padding:0px;
+}
+body{
+    background-color:gray
+}
+#container{
+    margin: 0 auto;
+}
+#header{
+    margin: 0 auto;
+    background-image:url(../assets/ocean.png);
+    width:600px;
+    height:200px;
+}
+#menu{
+    width:600px;
+    height:50px;
+    background-color: #1c2e40;
+    margin:0 auto;
+    line-height: 50px;  /*line-height設跟height一樣值會置中*/
+    word-spacing:30px;
+}
+#menu_content{
+    width:300px;
+    margin:0 auto;
+}
+.Menu_btn:link{
+    color: white;
+    text-decoration:none;
+}
+.Menu_btn:visited{
+    color: white;
+}
+.Menu_btn:hover
+{
+    color:gray;
+}
+#content{
+    margin: 0 auto;
+    width:600px;
+    height:230px;  
+    background-color:#ffffff;
+}
+#Artical{
+    width:450px;
+    margin:0 auto;
+}
+
+h2{
+    padding-top:20px;
+    color: #536679;
+    text-align:center;
+}
+h3{
+     color:#536679;
+    text-align:center;
+}
+#Artical_p{
+    color:#5a6168;
+    text-align:center;
+}
+#ClickMe_Div{
+    width:100px;
+    margin:0 auto;
+}
+#ClickMe_btn{
+    width:100px;
+    height:40px;
+    background-color: #536679; /* Green */
+    border: none;
+    color: white;
+    line-height: 40px;
+    border-radius: 4px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 14px;
+    cursor: pointer;
+}
+#footer{
+    width:600px;
+    height:30px;
+    background-color: #1c2e40;
+    margin:0 auto;
+    line-height: 30px;  /*line-height設跟height一樣值會置中*/
+    
+}
+#footer_p{
+    color:#ffffff;
+    text-align:center;
+    font-size: 10px;
+}
