@@ -1,3 +1,7 @@
+body{
+    margin: 0;
+    background-color: darkgrey;
+}
 .wrapper{
     margin: 0 auto;
     width: 1000px;
@@ -9,5 +13,40 @@
 }
 img{
     width: 100%;
-    height: 100%
+    height: 100%;
+}
+.list{
+    background-color: steelblue;
+    height: 50px;
+}
+ul{
+    margin: 0px;
+    text-align: center;
+    padding-top: 20px;
+}
+ul li{
+    display: inline-block;
+    padding-left: 50px;
+}
+.content{
+    margin: 0px;
+    background-color: white;
+    text-align: center;
+}
+.content h1{
+    margin: 0px;
+    text-align: center;
+}
+.content p{
+    margin: 0px;
+}
+.content button{
+    height: 50px;
+    background-color: aqua;
+}
+.footer{
+    margin:0px;
+    width: 100%;
+    background-color: gray;
+    text-align: center;
 }
