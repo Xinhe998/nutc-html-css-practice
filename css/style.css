@@ -12,7 +12,7 @@ body{
     margin: 0 auto;
     background-image:url(../assets/ocean.png);
     width:600px;
-    height:306px;
+    height:200px;
 }
 #menu{
     width:600px;
@@ -27,13 +27,57 @@ body{
     margin:0 auto;
 }
 .Menu_btn:link{
-    color: #000000;
+    color: #123456;
     text-decoration:none;
 }
 .Menu_btn:visited{
-    color: #000000;
+    color: #123456;
 }
 .Menu_btn:hover
 {
     color:gray;
+}
+#content{
+    margin: 0 auto;
+    width:600px;
+    height:230px;  
+    background-color:#ffffff;
+}
+#Artical{
+    width:450px;
+    margin:0 auto;
+}
+
+h2{
+    padding-top:20px;
+    color: #536679;
+    text-align:center;
+}
+h3{
+     color:#536679;
+    text-align:center;
+}
+p{
+    color:#5a6168;
+    text-align:center;
+}
+#ClickMe_Div{
+    width:100px;
+    margin:0 auto;
+}
+#ClickMe_btn{
+    width:100px;
+    height:40px;
+    background-color: #536679; /* Green */
+    border: none;
+    color: white;
+    line-height: 40px;
+    border-radius: 4px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+#footer{
+    text-align:center;
 }
