@@ -1,0 +1,13 @@
+
+.container{
+    height: 100vh;
+    
+}
+.header{
+    margin: 0 auto;
+    width: 50vw;
+    height: 50vh;
+    background-image: url(../assets/image.jpg);
+    background-repeat: no-repeat;
+    background-position:center;
+}
