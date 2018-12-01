@@ -5,9 +5,28 @@
 }
 .header{
     margin: 0 auto;
-    width: 50vw;
-    height: 50vh;
+    width: 780px;
+    height: 404px;
     background-image: url(../assets/image.jpg);
     background-repeat: no-repeat;
     background-position:center;
+}
+.menu{
+    margin: 0 auto;
+    width: 780px;
+    height: 40px;
+    background-color: darkgray;
+}
+.menu ul{
+    text-align:center;
+    margin: 0 auto;
+}
+.menu li {
+    list-style: none;
+    display: inline-block;
+    padding-top: 1em;
+    padding-right: 3em;
+}
+.menu a{
+    text-decoration:none;
 }
