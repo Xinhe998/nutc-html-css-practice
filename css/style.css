@@ -1,7 +1,7 @@
 
 .container{
     height: 100vh;
-    
+    background-color: darkslategray;
 }
 .header{
     margin: 0 auto;
@@ -29,4 +29,18 @@
 }
 .menu a{
     text-decoration:none;
+}
+.content{ 
+    margin: 0 auto;
+    padding-top: 1em;
+    background-color: aliceblue;
+    width: 780px;
+    height:200px;
+    text-align:center;
+}
+.content h2{
+    margin: 0;
+} 
+.content p{
+    margin: 0;
 }
