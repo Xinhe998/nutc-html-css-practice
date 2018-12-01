@@ -44,3 +44,13 @@
 .content p{
     margin: 0;
 }
+.button {
+    background-color: gray; 
+    color: black;
+    border: none;
+    padding: 12px 28px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
