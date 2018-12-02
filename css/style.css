@@ -23,6 +23,12 @@
 .content{
     text-align: center;
 }
+.footer{
+    margin-top: 20px;
+    width: 800px;
+    text-align: center;
+    background-color: dimgray;
+}
 li {
     display: inline-block;
     list-style: none;
