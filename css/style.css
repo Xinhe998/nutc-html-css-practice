@@ -20,6 +20,9 @@
     background-color: #DEB887;
     line-height: 80px;
 }
+.content{
+    text-align: center;
+}
 li {
     display: inline-block;
     list-style: none;
@@ -27,4 +30,12 @@ li {
 a:link,a:visited,a:hover,a:active {
     color: #000000;
     text-decoration: none;
+}
+button{
+    width: 120px;
+    height: 40px;
+    background-color: #DEB887;
+    border: none;
+    color: white;
+    text-align: center;
 }
