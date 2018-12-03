@@ -1,14 +1,14 @@
 body {
     background-color:#AAAAAA;
 }
-body,div{
+body,div,ul{
     margin:0px 0px 0px 0px;
 }
 .show{
     width:100vw;
     height:100vh;
 }
-.image{
+.image,.menu{
     width: 50vw;
 }
 .image{
@@ -17,4 +17,20 @@ body,div{
 img{
     width:100%;
     height:100%;
+}
+.menu{
+    
+    height:5vh;
+    background-color:#000000;
+}
+ul{
+    padding-top:10px;
+}
+ul li{
+    margin-right:35px;
+    display:inline-block;
+}
+a {
+    color:#FFFFFF;
+    text-decoration:none;
 }
