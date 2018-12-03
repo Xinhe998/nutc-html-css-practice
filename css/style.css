@@ -1,14 +1,14 @@
 body {
     background-color:#AAAAAA;
 }
-body,div,h1,ul{
+body,div,h1,ul,p{
     margin:0px 0px 0px 0px;
 }
 .show{
     width:100vw;
     height:100vh;
 }
-.image,.menu,.content{
+.image,.menu,.content,.footer{
     width: 50vw;
 }
 .image{
@@ -49,4 +49,10 @@ input[type="button"]{
 input[type="button"]:hover{
     background-color:#C0C0C0;
     color:#000000;
+}
+.footer{
+    height:20px;
+    background-color:#272727;
+    color:#FFFFFF;
+    font-size:10px;
 }
