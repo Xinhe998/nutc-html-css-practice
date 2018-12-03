@@ -1,14 +1,14 @@
 body {
     background-color:#AAAAAA;
 }
-body,div,ul{
+body,div,h1,ul{
     margin:0px 0px 0px 0px;
 }
 .show{
     width:100vw;
     height:100vh;
 }
-.image,.menu{
+.image,.menu,.content{
     width: 50vw;
 }
 .image{
@@ -33,4 +33,20 @@ ul li{
 a {
     color:#FFFFFF;
     text-decoration:none;
+}
+.content{
+    font-size:10px;
+    padding:0px 0px 0px 0px;
+    background-color:#FFFFFF;
+}
+input[type="button"]{
+    border:0px;
+    background-color:#696969;
+    color:#FFFFFF;
+    padding:8px 8px 8px 8px;
+    margin-bottom:10px;
+}
+input[type="button"]:hover{
+    background-color:#C0C0C0;
+    color:#000000;
 }
