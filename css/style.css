@@ -28,6 +28,10 @@ ul li{
     display: inline-block;
     padding-left: 50px;
 }
+ul li a{
+    text-decoration: none;
+    color: black;
+}
 .content{
     margin: 0px;
     background-color: white;
@@ -43,6 +47,7 @@ ul li{
 .content button{
     height: 50px;
     background-color: aqua;
+    margin: 30px;
 }
 .footer{
     margin:0px;
