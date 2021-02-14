@@ -1,0 +1,76 @@
+body{
+    margin:0;
+    background-color: rgb(133, 132, 132);
+}
+div{
+    width: 100%;
+    height: 100%;
+    border:0;
+    padding: 0;
+}
+div.main{
+    margin:0 auto;
+    background-color: rgb(255,255, 255);
+    width: 80%;
+}
+div img{
+    margin:0 25%;
+    border:0;
+    padding: 0;
+}
+nav ul{
+    margin:0 auto;
+}
+nav{
+    height: 40px;
+    background-color: rgb(170, 170, 170);
+}
+nav ul li{
+    height: 40px;
+    line-height: 40px;
+    margin-left: 10%;
+    margin-right: 10%;
+    list-style: none;
+    text-decoration: none;
+    display: inline-block;
+} 
+a{
+    color:rgb(0, 0, 0);
+    text-decoration: none;
+}
+nav ul li:hover{
+    background-color: rgb(189, 189, 189);
+} 
+nav ul li:active{
+    background-color: rgb(131, 130, 130);
+} 
+div article{
+    text-align: center;
+    margin:0 auto;
+    height: 230px;
+    overflow:hidden;
+}
+button{
+    border:0;
+    height:30px;
+    width:200px;
+    background-color: rgb(150, 150, 150);
+    border-radius: 25px;
+    color:rgb(255,255, 255);
+    transition: all .5s ease-in-out;
+}
+button:hover{
+    background-color: rgb(184, 183, 183);
+    height:35px;
+    width:205px;
+    box-shadow:0px 0px 3px 3px rgb(107, 107, 107);
+    font-size: 15px;
+    transition: all .5s ease-in-out;
+}
+button:active{
+    background-color: rgb(107, 107, 107);
+}
+footer{
+    text-align: center;
+    background-color: rgb(56, 56, 56)
+}
